@@ -30,7 +30,14 @@
 
 ---
 
-## 5. General Observations
+## 5. Test: Multi-lingual Output
+**Output:** Output in native language of the user. 
+**Observation:** the translation was accurate. 
+**Usefulness:** Accessible for learners all over the world.
+
+---
+
+## 6. General Observations
 - Responses were coherent and relevant to uploaded material.
 - Useful for learning reinforcement, but verification needed for complex topics.
 

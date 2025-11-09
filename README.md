@@ -21,20 +21,20 @@ The goal was to assess NotebookLM’s usefulness in academic settings by analysi
 ---
 
 ## 📊 Key Findings
-| Feature | Observation | Result |
-|----------|--------------|--------|
-| Summarisation | Captured main topics accurately but.....| 8555–9000% accurate |
-| Q&A | Provided relevant answers (with citations)??????? | Contextually strong)???? |
-| Mind map | Cohesive summaries, saved time | Effective for revision |
-| Quiz | 
-| Multi-language | 
+| Feature | Observation |
+|----------|--------------|
+| Summarisation | Captured main topics accurately | 
+| Q&A | Provided relevant answers (with citations) | 
+| Mind map | Cohesive summaries, saved time | 
+| Quiz | valid, ranged from easy to difficult questions |
+| Multi-language | accurate translation |
 
 ---
 
 ## ⚠️ Limitations & Concerns
-- Minor **hallucinations** in complex explanations????
-- **Privacy** concerns since data is uploaded to Google’s servers. ???????? 
-- **Over-reliance** risk if students avoid reviewing original notes. ????????
+- Fully dependent on the materials provided.
+- Limited information
+- Contents in native language are a bit complex because of the use of jargons.
 
 ---
 

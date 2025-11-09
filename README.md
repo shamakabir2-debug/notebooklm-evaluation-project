@@ -41,9 +41,3 @@ The goal was to assess NotebookLM’s usefulness in academic settings by analysi
 ## 🗂 Evidence
 Screenshots of AI interactions and outputs are stored in the `/screenshots` folder.  
 Observation notes are documented in `/notes/observations.md`.
-
----
-
-## 🔗 Reference
-Report reference link for submission:  
-[https://github.com/<your-username>/notebooklm-evaluation-project](https://github.com/)
